@@ -23,6 +23,9 @@ body {
 }
 
 .modal {
+  display: flex; 
+  gap: 12px;
+  pad: 12px;
   background: white;
   width: 480px;
   border-radius: 10px;
